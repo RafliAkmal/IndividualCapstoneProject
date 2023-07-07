@@ -41,7 +41,7 @@ body, h1, h2, h3, p, ul, li {
   
   /* Hero section styles */
   #hero {
-    background-image: url('/docs/img/Hero.png');
+    background-image: url('/img/Hero.png');
     background-size: cover;
     background-position: center;
     color: #fff;
