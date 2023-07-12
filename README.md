@@ -1,6 +1,5 @@
 <H1>Terrakarta | Terrarium ChatBot</H1>
-<H4>ChatBot Assistant that provide the information for start your own terrarium project.</H4>
-It's developed using IBM Watson Assistant & IBM Watson Discovery Smart Document Understanding (SDU)
+Chatbot Terrarium using IBM Watson Assistant & Watson Discovery Smart Documents Understanding (SDU)
 
 <H1>Demo</H1>
 You can access the demo by the link below: <br>
