@@ -18,8 +18,8 @@
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
   --bs-yellow: #ecb807;
-  --bs-green: #198754;
-  --bs-teal: #20c997;
+  --bs-green: #40513B;
+  --bs-teal: #609966;
   --bs-cyan: #0dcaf0;
   --bs-black: #000;
   --bs-white: #fff;
@@ -11014,7 +11014,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("docs/");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://github.com/RafliAkmal/IndividualCapstoneProject/blob/main/docs/img/MasterHead.png?raw=true");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
